@@ -1,0 +1,90 @@
+RAPORT 1 "PODSUMOWANIE WYNIKÓW TESTÓW WYŒWIETLA B£ÊDN¥ WARTOŒÆ PROCENTOW¥"
+
+1.Warunki rozpoczêcia: 
+Otwarta strona https://pro-test.qa.m.goit.global/
+
+2.Kroki do odtworzenia:
+1. W segmencie “Zaloguj siê do naszego programu przy pomocy adresu e-mail oraz has³a” w oknie “E-mail” wpisz losowy e-mail np. “bugito@isuper” oraz w oknie “Has³o” wpisz losowe has³o np. “GoITrulez” 
+2. Naciœnij przycisk “Rejestracja”
+3. Na stronie g³ównej kliknij w dostêpny test “Teoria Testów” b¹dŸ “QA przygotowanie techniczne”
+4. Odpowiedz na 12 wyœwietlaj¹cych siê pytañ wybieraj¹c losowe odpowiedzi
+5. Zauwa¿ ¿e na koniec testu zawsze wyœwietla siê wykres ko³owy wyœwietlaj¹cy 30% Poprawnych odpowiedzi oraz 95% Niepoprawnych co daje razem 125%
+
+3.Aktualny Rezultat:
+ Na koñcu testu wyœwietla siê wykres ko³owy wyœwietlaj¹cy 125% sumy wszystkich odpowiedzi
+
+4.Oczekiwany Rezultat:
+Na koñcu testu wyœwietla siê wykres ko³owy wyœwietlaj¹cy 100% sumy wszystkich odpowiedzi
+
+RAPORT 2. "NIE DZIA£AJ¥CY PRZYCISK "ZAKOÑCZ TEST"
+
+1.Warunki rozpoczêcia:
+Otwarta strona https://pro-test.qa.m.goit.global/
+
+2.Kroki do odtworzenia:
+1. W segmencie “Zaloguj siê do naszego programu przy pomocy adresu e-mail oraz has³a” w oknie “E-mail” wpisz losowy e-mail np. “bugito@isuper” oraz w oknie “Has³o” wpisz losowe has³o np. “GoITrulez” 
+2. Naciœnij przycisk “Rejestracja”
+3. Na stronie g³ównej kliknij w dostêpny test “Teoria Testów” b¹dŸ “QA przygotowanie techniczne”
+4. Zauwa¿ ¿e po naciœniêcia przycisku “Zakoñcz Test” nic siê nie dzieje, nie ma mo¿liwoœci wczeœniejszego zakoñczenia testu
+
+3.Aktualny Rezultat:
+Po naciœniêcia przycisku “Zakoñcz Test” nic siê nie dzieje, nie ma mo¿liwoœci wczeœniejszego zakoñczenia testu
+
+4.Oczekiwany Rezultat:
+Po naciœniêcia przycisku “Zakoñcz Test” strona przechodzi sekcji wyniki prezentuj¹c wykres ko³owy z poprawnymi\niepoprawnymi odpowiedziami oraz daje mo¿liwoœæ ponownego podejœcia do testu
+
+RAPORT 3. "NIE DZIA£AJ¥CY PRZYCISK ROZWIJANIA PE£NEJ LISTY "PRZYDATNA LITERATURA"
+
+1.Warunki rozpoczêcia:
+Otwarta strona https://pro-test.qa.m.goit.global/
+
+2.Kroki do odtworzenia:
+1. W segmencie “Zaloguj siê do naszego programu przy pomocy adresu e-mail oraz has³a” w oknie “E-mail” wpisz losowy e-mail np. “bugito@isuper” oraz w oknie “Has³o” wpisz losowe has³o np. “GoITrulez” 
+2. Naciœnij przycisk “Rejestracja”
+3. Na stronie g³ównej kliknij w nag³ówku w przycisk “Materia³y”
+4. Zauwa¿ ¿e przy próbie naciœniêcia przycisku “More…” w segmencie “Przydatna literatura” pe³na lista nie rozwija siê.
+
+3.Aktualny Rezultat:
+Przy próbie naciœniêcia przycisku “More…” w segmencie “Przydatna literatura” pe³na lista nie rozwija siê.
+
+4.Oczekiwany Rezultat:
+Przy próbie naciœniêcia przycisku “More…” w segmencie “Przydatna literatura” rozwija siê pe³na lista.
+
+
+
+
+
+RAPORT 4. "Brak mo¿liwoœci ponownego podejœcia do rozwi¹zywania testu bez powrotu do strony g³ównej"
+
+1.Warunki rozpoczêcia:
+Otwarta strona https://pro-test.qa.m.goit.global/
+
+2.Kroki do odtworzenia:
+1. W segmencie “Zaloguj siê do naszego programu przy pomocy adresu e-mail oraz has³a” w oknie “E-mail” wpisz losowy e-mail np. “bugito@isuper” oraz w oknie “Has³o” wpisz losowe has³o np. “GoITrulez” 
+2. Naciœnij przycisk “Rejestracja”
+3. Na stronie g³ównej kliknij w dostêpny test “Teoria Testów” b¹dŸ “QA przygotowanie techniczne”
+4. Odpowiedz na 12 wyœwietlaj¹cych siê pytañ wybieraj¹c losowe odpowiedzi
+5. Zauwa¿ ¿e na koniec testu chc¹c ponownie podejœæ do wykonywania testu bez powrotu do strony g³ównej, naciskaj¹c przycisk “Spróbuj ponownie” nic siê nie dzieje.
+
+3.Aktualny Rezultat:
+Chc¹c ponownie podejœæ do wykonywania testu bez powrotu do strony g³ównej, naciskaj¹c przycisk “Spróbuj ponownie” nic siê nie dzieje.
+
+4.Oczekiwany Rezultat:
+Chc¹c ponownie podejœæ do wykonywania testu bez powrotu do strony g³ównej, naciskaj¹c przycisk “Spróbuj ponownie” test generuje siê ponownie i mo¿na do niego podejœæ
+
+RAPORT 5. "BRAK MO¯LIWOŒCI POWROTU DO WCZEŒNIEJSZEGO PYTANIA PODCZAS ROZWI¥ZYWANIA TESTU"
+
+1.Warunki rozpoczêcia:
+Otwarta strona https://pro-test.qa.m.goit.global/
+
+2.Kroki do odtworzenia:
+1. W segmencie “Zaloguj siê do naszego programu przy pomocy adresu e-mail oraz has³a” w oknie “E-mail” wpisz losowy e-mail np. “bugito@isuper” oraz w oknie “Has³o” wpisz losowe has³o np. “GoITrulez” 
+2. Naciœnij przycisk “Rejestracja”
+3. Na stronie g³ównej kliknij w test “QA przygotowanie techniczne”
+4. Zauwa¿ ¿e podczas odpowiedzenia na kilka pytañ i chêci powrotu do wczeœniejszego pytania, naciœniêcie przycisku “Poprzednie pytanie” nic nie robi
+
+3.Aktualny Rezultat:
+Podczas odpowiedzenia na kilka pytañ i chêci powrotu do wczeœniejszego pytania, naciœniêcie przycisku “Poprzednie pytanie” nic nie robi
+
+4.Oczekiwany Rezultat:
+Podczas odpowiedzenia na kilka pytañ i chêci powrotu do wczeœniejszego pytania, naciœniêcie przycisku “Poprzednie pytanie” przenosi nas do wczeœniejszego pytania
